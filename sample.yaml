@@ -1,28 +1,6 @@
 key: "key1"
 content: |-
-  ISA*04*SW46D     *00*          *02*UPRR           *02*RICT           *180723*1040*U*00701*char9*0*P*^
-  GS*TP*UPRR*RICT*date*1040*char9*X*007010RAIL
-  ST*460*char9
-  REN*S*UP*50233
-  DK*UP*char7*48*0*E*S*date*99991231
-  PI*TS*9897897897*TP*65876*UP*UP*67*7809789789***78
-  PR*P*T*1111225*1111225
-  SB*1
-  GY*F*P*AC*IL*DOLTON**********Y
-  SC*1*1
-  GY*T*P*AC*CO*ROBB**********Y
-  RAB*PC*1*L
-  LX*1
-  RS*1*1***date*99991231
-  RD*1*R*1000*N*USD
-  R9*UP  BNSF00008
-  R2B*UP*CHGO
-  R2C*R*PC*500*1
-  R2B*BNSF
-  R2C*R*PC*500*1
-  SE*19*char9
-  GE*1*char9
-  IEA*1*char9
+  tao lao
 ---
 key: "key2"
 content: |-
